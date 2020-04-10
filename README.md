@@ -13,6 +13,9 @@ Download File - kafka_2.11-2.4.1.tgz
 Extract to C Drive -
 Path C:\kafka_2.11-2.4.1
 
+Install on Windows setup link 
+https://youtu.be/TTsOoQ6_QB0
+
 
 Start Zoo Keeper
 Move to folder C:\kafka_2.11-2.4.1\bin\windows
